@@ -1,4 +1,4 @@
-# Minecraft Server Setup Guide
+# Minecraft Java Edition Server Setup Guide
 
 This guide explains how to set up and host a Minecraft server on **PC**, **VPS**, and **Mobile (using Termux)**.
 
